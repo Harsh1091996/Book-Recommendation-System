@@ -48,6 +48,13 @@ expressed by 0.
 * Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 * Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
 
+## Memory Based Collaborative Filtering
+Memory-based methods use user rating historical data to compute the similarity between users or items. The idea behind these methods is to define a similarity measure between users or items, and find the most similar to recommend unseen items.
+
+## Model Based Collaborative Filtering
+Model-based CF uses machine learning algorithms to predict users rating of unrated items. There are many model-based CF algorithms, the most commonly used are matrix factorization models such as to applying a SVD to reconstruct the rating matrix, latent Dirichlet allocation or Markov decision process based models.
+
+Refer this [**blog**](https://towardsdatascience.com/how-does-collaborative-filtering-work-da56ea94e331) for more information on collaborative filtering
 
 ## Needs of this project
 
@@ -58,25 +65,20 @@ expressed by 0.
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data 
-* Users_data is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/main/Users.csv) within this repo.
-* Ratings_data is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/main/Ratings.csv) within this repo.
-* Books_data is being kept [here](https://drive.google.com/file/d/1phmZ4_TzhGi40dPPU_bN_Mz8Bxlhe4d9/view?usp=sharing) 
-    
+2. Project Documentation is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/main/Book_Recommendation_System_cohort_nilgiri.docx) within this repo.
+
 3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/cb7aab70db7b7effe4457e66c2fc26b6e85f64c4/Book_Recommendation_System.ipynb)
  
 
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+Himanshu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 
-
-## Contributing AlmaBetter Team Members
-
-
-|Name     |  Email Address   | 
-|---------|-----------------|
-|[Himanshu]| @harshsharma1091996@gmail.com        |
-|[Rohan]|     @rohanroney98@gmail.com    |
-|[Shweta]| @Shwetasingh8597@gmail.com        |
-|[Sweety]|     @sweetyjunnarkar17@gmail.com    |
-
-* Feel free to contact team members with any questions.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himan-10/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh1091996)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://harshsharma1091996.medium.com/)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1pyTvHo2Ec4xfCszL7YkHYAwWgFi5Uf2T/view?usp=sharing)
