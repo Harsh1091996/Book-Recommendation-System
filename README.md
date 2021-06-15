@@ -7,6 +7,21 @@ These project is part of the “Machine Learning &Advanced Machine Learning” c
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge
 amount of income when they are efficient or also be a way to stand out significantly from competitors. 
 
+<h2> :floppy_disk: Project Files Description</h2>
+
+<p>This Project includes 1 executable files and 1 project documentation  as follows:</p>
+<h4>Executable Files:</h4>
+<ul>
+  <li><b>Book_Recommendation_System.ipynb</b> - Complete notebook containing Data exploration/Data processing/transformation/model development.</li>
+</ul>
+
+
+<h4>Documentation:</h4>
+<ul>
+  <li><b>Book_Recommendation_System_cohort_nilgiri.docx</b> - Includes the documentation of the project.</li>
+</ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### Methods Used
 * Descriptive Statistics
@@ -62,6 +77,18 @@ Refer this [**blog**](https://towardsdatascience.com/how-does-collaborative-filt
 - data processing/cleaning
 - recommendation system developer
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :clipboard: Execution Instruction</h2>
+<p>The order of execution of the program files is as follows:</p>
+<p><b>1) Book_Recommendation_System.ipynb </b></p>
+<p> The Book_Recommendation_System.ipynb contains the entire code for Data exploration/Data processing/transformation/model development </p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
@@ -82,3 +109,23 @@ Himanshu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | De
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh1091996)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://harshsharma1091996.medium.com/)
 [![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1pyTvHo2Ec4xfCszL7YkHYAwWgFi5Uf2T/view?usp=sharing)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h2> :books: References</h2>
+<ul>
+  <li><p>tryolabs, 'Introduction to Recommender Systems'. [Online].</p>
+      <p>Available: https://tryolabs.com/blog/introduction-to-recommender-systems/</p>
+  </li>
+  <li><p>Wikipedia.org, 'Recommender system'. [Online].</p>
+      <p>Available: https://en.wikipedia.org/wiki/Recommender_system</p>
+  </li>
+  <li><p>Youtube.com, 'Recommender System'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=Eeg1DEeWUjA</p>
+  </li>
+  <li><p>Sonya Sawtelle, 'Mean Average Precision (MAP) For Recommender Systems'. [Online].</p>
+      <p>Available: https://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html</p>
+  </li>
+</ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
